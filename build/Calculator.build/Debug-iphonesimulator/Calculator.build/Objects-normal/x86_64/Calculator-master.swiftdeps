@@ -1,0 +1,12 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "9e48104aa5f4b20c978b536cf91d049a"
+build_time: [551298585, 638924000]
+inputs:
+  "/Users/HPTG/Downloads/Graphing-Calculator-master/Calculator/Calculator/CalculatorBrain.swift": [550510396, 0]
+  "/Users/HPTG/Downloads/Graphing-Calculator-master/Calculator/Calculator/Keys.swift": [550510396, 0]
+  "/Users/HPTG/Downloads/Graphing-Calculator-master/Calculator/Calculator/CalculatorViewController.swift": [550510396, 0]
+  "/Users/HPTG/Downloads/Graphing-Calculator-master/Calculator/Calculator/GraphingViewController.swift": [550510396, 0]
+  "/Users/HPTG/Downloads/Graphing-Calculator-master/Calculator/Calculator/AxesDrawer.swift": [550510396, 0]
+  "/Users/HPTG/Downloads/Graphing-Calculator-master/Calculator/Calculator/GraphingView.swift": [550510396, 0]
+  "/Users/HPTG/Downloads/Graphing-Calculator-master/Calculator/Calculator/AppDelegate.swift": [550510396, 0]
+  "/Users/HPTG/Downloads/Graphing-Calculator-master/Calculator/Calculator/Constants.swift": [550510396, 0]
